@@ -23,7 +23,7 @@ import Github from './components/Github/Github.jsx'
 //       element : <About/>
 //     },
 //     {
-//       path: "contact",
+//       pathth: "contact",
 //       element : <Contact/>
 //     }
 //   ]
