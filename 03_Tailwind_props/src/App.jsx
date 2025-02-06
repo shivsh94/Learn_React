@@ -8,8 +8,8 @@ function App() {
   return (
     <>
         <h2 className='bg-green-600 mb-4' > Testing TailWind CSS</h2>
-        <Card username="chai" btnText="click me"/>
-        <Card username="code" btnText="visit me"/>
+        <Card username="chai" btnText="click me"/> //yha props ka use kiya gya h....
+        <Card username="code" btnText="visit me"/> //props components ko reuseable bnata h 
 
     </>
   )

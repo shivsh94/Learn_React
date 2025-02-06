@@ -3,7 +3,7 @@ import { useState } from "react"
  
 
 function App() {
-   const [color, setColor] = useState("olive")
+   const [color, setColor] = useState("olive") //olive yha default color rhega 
 
   return (
     <>

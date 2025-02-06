@@ -1,6 +1,7 @@
 import React from 'react'
 
-function Card({username, btnText="visit me"}) {
+function Card({username, btnText="visit me"}) { //fun. k andr username (jise change krna ho) paas kiya gya h ...
+  //kyuki har card pr alag alag name show krana h...aur yha props ka use kiya jaa rha h
   return (
     <div class="relative h-[400px] w-[300px] rounded-md">
   <img

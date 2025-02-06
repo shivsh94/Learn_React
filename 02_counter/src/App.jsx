@@ -1,10 +1,8 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [counter, setCounter] = useState(15);
+  const [counter, setCounter] = useState(15); //state ko change krne k liye responsible hota h aur ui pe reflect krata h
    
   // let Counter = 6
 
